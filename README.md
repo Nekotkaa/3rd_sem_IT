@@ -1,2 +1,3 @@
 # 3rd_sem_IT
-js notes
+
+Repo will consist of notes dates and be my priv schedule help
